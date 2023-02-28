@@ -8,7 +8,7 @@
 ⭐Custom Design<br>
 ⭐Cool design<br>
 ⭐Instant transactions<br>
-⭐Anti Phantom Phishing Detections<br>
+⭐Anti Phantom Phishing <br>🕵️‍♂️Detections<br>
 ⭐Anti F12 Inspect<br>
 ⭐Autoconnect after one click 
 # 🌞Setup Guide:

